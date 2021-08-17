@@ -1,4 +1,4 @@
-# Team 3, Project 3: Castaway App
+# Castaway App
 
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
