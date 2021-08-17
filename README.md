@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Deployment](#deployment)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,11 +12,17 @@
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Screenshots](#screenshots)
+- [Links](#links)
 - [License](#license)
 
+## Deployment
+
+- Deployed App: [Heroku](https://podcastaway-app.herokuapp.com/)
+ 
 ## Description
 
-Castaway, is a podcasting app designed to make more podcasting more accessible to a growing market. Excluding all other types of media, it's an app exclsuively about podcasting. 
+Castaway is a podcasting app designed to make the search and navigation more accessible. Excluding all other types of media, it's an app exclusively about podcasting. 
 
 Decluttering the overwhelming choice of many podcasting and streaming apps, Castaway offers a simple yet intuitive design, that ensures picking a podcast has never been easier. 
 
@@ -24,8 +31,6 @@ Discover a podcast from the GENRE you know you're in the mood for. SEARCH for a 
 Each dyanmically rendered podcast is primed with additonal information including the podcast title, thumbnail, description, publisher, release date and more to help advise your choice. 
 
 Each podcast also has a built-in audio player for immediate listening. 
-
-Once users find the perfect podcast, they can save it to their personal MyPodcast library. 
 
 An exclusive service for subscribers only, just sign up and login and escape to a paradise of podcasting. 
 
@@ -37,11 +42,9 @@ It features a sleek user interface, with a customised header (featuring the Cast
 
 User data is stored using a MERN stack set up, with Apollo Server and graphQL. 
 
-Email validation upon sign-up prevents duplciation of accounts, whereas checks on login also ensure security of user accoutns. 
+Email validation upon sign-up prevents duplication of accounts, whereas checks on login also ensure security of user accounts. 
 
 It has been deployed on Heroku, using AtlasDB.
-
-Screenshots of the app are also included below.
 
 
 ## Installation
@@ -92,8 +95,6 @@ However, to install the project please clone the repo from GitHub and use the fo
 
 * The payment platform Stripe is integrated to allow users to make donations to the project.
 
-
-
 ## Contributing
 
 To contribute further on this project please contacts the repo owners at the GitHub account below. 
@@ -105,12 +106,12 @@ Further testing with the Jest package are proposed for future development.
 ## Questions
 
 For any further questions, please contact GitHub users:
-[Thom Williams](https://www.github.com/ThomWilliams/)
 [Raul Sanz](https://github.com/itsraulsanz)
+[Thom Williams](https://www.github.com/ThomWilliams/)
 [Temi Lanre-Adewumi](https://github.com/TemyTemy)
 
 Or for direct enquiries please email the follower developer address:
-thomwilliams1990@gmail.com
+luarznas@gmail.com
 
 ## Screenshots
 
@@ -126,9 +127,7 @@ thomwilliams1990@gmail.com
 
 ![Mobile](client/src/assets/mobile.png)
 
-## Deployment / Links
-
-- Deployed App: [Heroku](https://podcastaway-app.herokuapp.com/)
+## Links
 
 - Project Repository: [GitHub](https://github.com/ThomWilliams/castaway-app)
 
