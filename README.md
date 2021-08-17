@@ -2,9 +2,12 @@
 
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## Deployment
+
+- Deployed App: [Heroku](https://podcastaway-app.herokuapp.com/)
+
 ## Table of Contents
 
-- [Deployment](#deployment)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,10 +18,6 @@
 - [Screenshots](#screenshots)
 - [Links](#links)
 - [License](#license)
-
-## Deployment
-
-- Deployed App: [Heroku](https://podcastaway-app.herokuapp.com/)
  
 ## Description
 
