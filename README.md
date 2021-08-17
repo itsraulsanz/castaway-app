@@ -105,9 +105,9 @@ Further testing with the Jest package are proposed for future development.
 ## Questions
 
 For any further questions, please contact GitHub users:
-[Raul Sanz](https://github.com/itsraulsanz)
-[Thom Williams](https://www.github.com/ThomWilliams/)
-[Temi Lanre-Adewumi](https://github.com/TemyTemy)
+- [Raul Sanz](https://github.com/itsraulsanz)
+- [Thom Williams](https://www.github.com/ThomWilliams/)
+- [Temi Lanre-Adewumi](https://github.com/TemyTemy)
 
 Or for direct enquiries please email the follower developer address:
 luarznas@gmail.com
